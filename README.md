@@ -37,3 +37,6 @@ If you are using cli or shell then remove the package name from the program and 
 **SERVER**
 
 ![4](https://user-images.githubusercontent.com/25420334/117573943-5cc93400-b0f8-11eb-99ce-97dcb4144f5a.png)
+
+# References:
+1. AbdElnapi, Noha MM, Fatma A. Omara, and Nahla F. Omran. "A hybrid hashing security algorithm for data storage on cloud computing." International Journal of Computer Science and Information Security (IJCSIS) 14.4 (2016).
