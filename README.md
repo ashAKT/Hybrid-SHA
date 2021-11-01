@@ -43,4 +43,4 @@ If you are using cli or shell then remove the package name from the program and 
 
 # Video Demonstration
 
-[![Demonstration](https://img.youtube.com/vi/SX5mSCy0lWo.maxresdefault.jpg)](https://www.youtube.com/watch?v=SX5mSCy0lWo)
+[![Demonstration](https://img.youtube.com/vi/SX5mSCy0lWo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SX5mSCy0lWo)
